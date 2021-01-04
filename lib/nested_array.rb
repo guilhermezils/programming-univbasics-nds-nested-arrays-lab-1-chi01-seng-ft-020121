@@ -43,7 +43,7 @@ def matrix_lookup(matrix, row, column)
   # Return the matrix's content at that row and and column
  
 
-assembled_matrix[1][1]
+assembled_matrix[1][3]
 
 
 
