@@ -25,7 +25,7 @@ def assembled_matrix
   
  assembled_matrix = [
     ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"], 
-    ["Strawberries", "Avocadoes", "Grapes", "Potatoes", "Asparagus"]
+    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
     ]
     
 end
